@@ -15,6 +15,7 @@
 		2212D04D1E5BF48500E1E1D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2212D04B1E5BF48500E1E1D4 /* Main.storyboard */; };
 		2212D04F1E5BF48500E1E1D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2212D04E1E5BF48500E1E1D4 /* Assets.xcassets */; };
 		2212D0521E5BF48500E1E1D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2212D0501E5BF48500E1E1D4 /* LaunchScreen.storyboard */; };
+		2212D05A1E5C743A00E1E1D4 /* brick.wav in Resources */ = {isa = PBXBuildFile; fileRef = 2212D0591E5C743A00E1E1D4 /* brick.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		2212D04E1E5BF48500E1E1D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2212D0511E5BF48500E1E1D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2212D0531E5BF48500E1E1D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2212D0591E5C743A00E1E1D4 /* brick.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = brick.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				2212D0451E5BF48500E1E1D4 /* Actions.sks */,
 				2212D0471E5BF48500E1E1D4 /* GameScene.swift */,
 				2212D0491E5BF48500E1E1D4 /* GameViewController.swift */,
+				2212D0591E5C743A00E1E1D4 /* brick.wav */,
 				2212D04B1E5BF48500E1E1D4 /* Main.storyboard */,
 				2212D04E1E5BF48500E1E1D4 /* Assets.xcassets */,
 				2212D0501E5BF48500E1E1D4 /* LaunchScreen.storyboard */,
@@ -135,6 +138,7 @@
 			files = (
 				2212D04D1E5BF48500E1E1D4 /* Main.storyboard in Resources */,
 				2212D0441E5BF48500E1E1D4 /* GameScene.sks in Resources */,
+				2212D05A1E5C743A00E1E1D4 /* brick.wav in Resources */,
 				2212D04F1E5BF48500E1E1D4 /* Assets.xcassets in Resources */,
 				2212D0521E5BF48500E1E1D4 /* LaunchScreen.storyboard in Resources */,
 				2212D0461E5BF48500E1E1D4 /* Actions.sks in Resources */,
